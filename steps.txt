@@ -1,0 +1,21 @@
+1. Access API
+  figure out the necessary data for rec engine
+  - min and max temp (range of values)
+  - windiness (value in some range)
+  - precipation (binary)
+  - sunny to cloudy range (mostly cloudy, partly cloudy, etc.)
+  
+  ---> Transforming data to numerical values in a systematic way
+  ---> come up with usable metrics for matching to feature sets
+  
+2. Dummy Wardrobe
+   Begining quite small -- very simplistic 
+   (sweater, tshirt, etc. & feature set)
+   feature set will include values that match or fall in range of given weather data 
+  
+3. Provide Recommendation
+   - build recommendation algorithm
+   --> recommend pant option, top option  (required)
+   --> recommend sweater, coat, hat, etc. (depending on weather)
+  
+   
